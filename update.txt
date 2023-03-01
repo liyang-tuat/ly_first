@@ -1,1 +1,6 @@
-1
+cd folder
+git status 
+git add *
+git commit -m " "
+git pull
+git push origin master/main
